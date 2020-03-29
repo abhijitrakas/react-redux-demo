@@ -4,5 +4,5 @@
 Clone repo locally.
 
 ## Up and Running
-`npm start` for development mode.
+`npm start` for development mode.  
 `npm run build` for production mode.
